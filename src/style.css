@@ -1,6 +1,3 @@
-h1 {
-  font-family: "caveat";
-}
 body {
   background: linear-gradient(
     87.4deg,
@@ -62,7 +59,7 @@ main {
 
 .weather-app-city {
   margin: 0;
-  font-size: 40px;
+  font-size: 52px;
   line-height: 48px;
 }
 
